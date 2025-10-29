@@ -132,7 +132,7 @@ Gunakan class Bootstrap `.form-control`, `.form-label`, dan `.btn` untuk membuat
 📁 File: `form.html`
 
 ### 📸 Capture
-<img src="form.png">
+<img src="Form.png">
 
 ---
 
