@@ -1,7 +1,7 @@
 
 # Praktikum 6: Twitter Bootstrap
 
- **Nama:** 
+ **Nama:** LENI
 
  **NIM:** 312410442
 
